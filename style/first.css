@@ -15,8 +15,13 @@
     background-color:#4E47FF  ;
     color:#FFFFFF ;  
     text-align: center; 
-    border: #4E47FF; 
+    border: #4E47FF;
+    cursor: pointer; 
+} 
+.btn:hover{
+    background-color:rgb(123, 196, 40);
 }
+
 .stay{
        width: 175px;
        height: 48px; 
